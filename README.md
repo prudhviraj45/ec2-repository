@@ -1,1 +1,1 @@
-Terraform Open Source Modules](https://docs.cloudposse.com/images/terraform-modules.svg)]
+Terraform Modules](https://docs.cloudposse.com/images/terraform-modules.svg)
